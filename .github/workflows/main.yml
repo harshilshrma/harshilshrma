@@ -1,16 +1,30 @@
 name: Waka Readme
 
+name: Waka Readme
+
 on:
   schedule:
-    # Runs at 12am IST
     - cron: '30 18 * * *'
   workflow_dispatch:
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: harshilshrma/waka-readme-stats@master
+      - name: Update Readme
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          LOCALE: "fr"  # Show stats in French
+          SECTION_NAME: "My Coding Metrics"  # Name of the section in the readme
+          COMMIT_BY_ME: "true"  # Commit using your name and email
+          COMMIT_MESSAGE: "Updated with Coding Metrics"
+          SHOW_LINES_OF_CODE: "true"  # Show lines of code written till date
+          SHOW_TOTAL_CODE_TIME: "false"  # Hide Code Time
+          SHOW_PROFILE_VIEWS: "false"  # Hide Profile views
+          SHOW_COMMIT: "false"  # Hide commit stats
+          # Add other flags as needed
+
+
