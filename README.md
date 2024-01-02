@@ -2,13 +2,15 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 55.1 kB Used in GitHub's Storage 
  > 
-> 🏆 27 Contributions in the Year 2024
+> 🏆 32 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -28,12 +30,8 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/harshilshrma/harshilshrma/main/assets/bar_graph.png)
-
-
- Last Updated on 02/01/2024 11:00:39 UTC
+ Last Updated on 02/01/2024 11:19:23 UTC
 <!--END_SECTION:waka-->
 
 <!--
