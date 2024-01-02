@@ -2,6 +2,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=harshilshrma)](https://wakatime.com/@harshilshrma)
 
 <!--END_SECTION:waka-->
 
