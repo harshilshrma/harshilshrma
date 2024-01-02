@@ -1,6 +1,6 @@
 ### Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-This is where I dump my tech shenanigans, gearing up to create innovative tech products, services, and ventures with the intent to create solutions that could benefit others🌍✨🛠️
+This is where I dump my tech shenanigans, gearing up to create innovative tech products, services, and ventures with the intent to create solutions that could benefit others 🌍✨🛠️
 
 <!--
 📊 &nbsp;**This week I spent my time on**
