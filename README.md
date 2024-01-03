@@ -2,7 +2,17 @@
 
 This is where I dump my tech shenanigans, gearing up to create innovative tech products, services, and ventures with the intent to create solutions that could benefit others 🌍✨🛠️
 
+- 🔭 &nbsp;I’m currently working on something cool 🥶
+- 🌱 &nbsp;I’m currently learning <strong>JavaScript</strong>
 
+<br>
+
+
+## A little about me:
+
+<br>
+
+## Stats That May or May Not Impress You (Worth a Peek!)
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
