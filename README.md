@@ -1,4 +1,4 @@
-## Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 This is where I dump my tech shenanigans, gearing up to create innovative tech products, services, and ventures with the intent to create solutions that could benefit others 🌍✨🛠️
 
@@ -10,7 +10,7 @@ This is where I dump my tech shenanigans, gearing up to create innovative tech p
 
 ## Debugging My Life.exe:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=60&duration=1800&pause=1200&color=F7F7F7&background=0D1117&center=true&vCenter=true&random=false&width=1920&height=300&lines=1%2F10%3A+Hey+there%2C+I'm+Harshil;2%2F10%3A+Currently+pursuing+B.Tech+in+Computer+Science;3%2F10%3A+Coding+by+day%2C+gaming+by+code's+moonlight;4%2F10%3A+Mastering+skills+for+a+Koenigsegg-fueled+tomorrow;5%2F10%3A+I+excel+in+organized+everything%E2%80%94code%2C+spaces%2C+and+life)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=65&duration=1800&pause=1200&color=F7F7F7&background=0D1117&center=true&vCenter=true&random=false&width=2420&height=300&lines=1%2F10%3A+Hey+there%2C+I'm+Harshil;2%2F10%3A+Currently+pursuing+B.Tech+in+Computer+Science;3%2F10%3A+Coding+by+day%2C+gaming+by+code's+moonlight;4%2F10%3A+Mastering+skills+for+a+Koenigsegg-fueled+tomorrow;5%2F10%3A+I+excel+in+organized+everything%E2%80%94code%2C+spaces%2C+and+life;6%2F10%3A+Coffee%E2%80%94the+real+code+compiler+behind+my+smarts;7%2F10%3A+Learning+AI+to+make+tech+smarter+and+less+Terminator-y)](https://git.io/typing-svg)
 
 
 
