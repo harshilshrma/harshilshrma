@@ -27,6 +27,7 @@ jobs:
           LOCALE: "en"
           SHOW_OS: "True"
           SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_PROFILE_VIEWS: "False"
   
 
 
