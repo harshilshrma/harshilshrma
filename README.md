@@ -6,14 +6,17 @@ This is where I dump my tech shenanigans, gearing up to create innovative tech p
 - 🌱 &nbsp;I’m currently learning <strong>JavaScript</strong> and <strong>DSA</strong>
 - 📫 &nbsp;<b>How to reach me:</b> Drop a message <a href="mailto:harshilsharma.dev@gmail.com">here</a> or find me on  <a href="https://twitter.com/harshilshrma">Twitter</a> for tech talk and wit!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=75&duration=2000&pause=800&color=F7F7F7&vCenter=true&random=true&width=1920&height=384&lines=Hey+there%2C+I'm+Harshil!;How+vexingly+quick+daft+zebras+jump)](#)
-
 <br>
-
 
 ## Debugging My Life.exe:
 
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=60&duration=1800&pause=1200&color=F7F7F7&center=true&vCenter=true&random=false&width=1920&height=300&lines=1%2F10%3A+Hey+there%2C+I'm+Harshil;2%2F10%3A+Currently+pursuing+B.Tech+in+Computer+Science;3%2F10%3A+Coding+by+day%2C+gaming+by+code's+moonlight;4%2F10%3A+Mastering+code+for+a+Koenigsegg-fueled+tomorrow)](https://git.io/typing-svg)
+
+
+
+
+
+
 
 ## Stats That May or May Not Impress You (Worth a Peek!)
 
