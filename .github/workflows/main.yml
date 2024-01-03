@@ -27,7 +27,6 @@ jobs:
           LOCALE: "en"
           SHOW_OS: "True"
           SHOW_TOTAL_CODE_TIME: "True"
-          SYMBOL_VERSION: 3
   
 
 
