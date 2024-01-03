@@ -1,14 +1,17 @@
-### Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+## Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 This is where I dump my tech shenanigans, gearing up to create innovative tech products, services, and ventures with the intent to create solutions that could benefit others 🌍✨🛠️
 
 - 🔭 &nbsp;I’m currently working on something cool 🥶
-- 🌱 &nbsp;I’m currently learning <strong>JavaScript</strong>
+- 🌱 &nbsp;I’m currently learning <strong>JavaScript</strong> and <strong>DSA</strong>
+- 📫 &nbsp;<b>How to reach me:</b> Drop a message <a href="mailto:harshilsharma.dev@gmail.com">here</a> or find me on  <a href="https://twitter.com/harshilshrma">Twitter</a> for tech talk and wit!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=75&duration=2000&pause=800&color=F7F7F7&vCenter=true&random=true&width=1920&height=384&lines=Hey+there%2C+I'm+Harshil!;How+vexingly+quick+daft+zebras+jump)](#)
 
 <br>
 
 
-## A little about me:
+## Debugging My Life.exe:
 
 <br>
 
