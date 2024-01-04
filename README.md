@@ -10,21 +10,17 @@ This is where I dump my tech shenanigans, gearing up to create innovative tech p
 <br>
 
 ## 🤝&nbsp;Connect with me
-
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 <br>
 
-## 🛠&nbsp;Technologies and tools
+## 🛠&nbsp;Skills
 <p align="center">
   <a href="https://skillicons.dev">
-   <h4>Programming Languages</h4>
+   <h4>Languages</h4>
     <img src="https://skillicons.dev/icons?i=java,python,c,javascript,kotlin" />
-    <h4>Frameworks & Libraries</h4>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
-    <h4>Databases</h4>
-    <img src="https://skillicons.dev/icons?i=mysql" />
-    <h4>Tools & Platforms</h4>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio" />
+    <h4>Technologies/Frameworks:</h4>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql,git,github,vscode,idea,androidstudio" />
   </a>
 </p>
 
