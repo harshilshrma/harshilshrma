@@ -20,7 +20,7 @@ This is where I dump my tech shenanigans, gearing up to create innovative tech p
    <h4>Languages</h4>
     <img src="https://skillicons.dev/icons?i=java,python,c,javascript,kotlin" />
     <h4>Technologies/Frameworks:</h4>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql,git,github,vscode,idea,androidstudio&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql,git,github,vscode,idea,androidstudio" />
   </a>
 </p>
 
