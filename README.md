@@ -17,7 +17,13 @@ This is where I dump my tech shenanigans, gearing up to create innovative tech p
 <p align="center">
   <a href="https://skillicons.dev">
    <h4>Programming Languages</h4>
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,kotlin" />
+    <h4>Frameworks & Libraries</h4>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+    <h4>Databases</h4>
+    <img src="https://skillicons.dev/icons?i=mysql" />
+    <h4>Tools & Platforms</h4>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
   </a>
 </p>
 
