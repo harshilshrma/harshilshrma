@@ -29,6 +29,9 @@ This is where I dump my tech shenanigans, gearing up to create innovative tech p
 🌃 Evening                105 commits         ██████████████░░░░░░░░░░░   54.12 % 
 🌙 Night                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 ```
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-->
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
@@ -40,10 +43,9 @@ Friday                   14 commits          ██░░░░░░░░░�
 Saturday                 8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 Sunday                   24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
 ```
+<!--END_SECTION:waka-->
 
-
-📊 **This Week I Spent My Time On** 
-
+<!--START_SECTION:📊 **Yesterday, I Spent My Time On**-->
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
@@ -66,9 +68,9 @@ MoveMate - Using Bootstra0 secs              ░░░░░░░░░░░�
 💻 Operating System: 
 Windows                  2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
+<!--END_SECTION:📊 **Yesterday, I Spent My Time On**>
 
+Last Updated on 04/01/2024 12:24:06 UTC
 
- Last Updated on 04/01/2024 12:24:06 UTC
-<!--END_SECTION:waka-->
 
 
