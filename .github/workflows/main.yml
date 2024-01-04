@@ -22,7 +22,7 @@ jobs:
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_LANGUAGE: "True"
           SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_EDITORS: "False"
+          SHOW_EDITORS: "True"
           SHOW_SHORT_INFO: "False"
           LOCALE: "en"
           SHOW_OS: "False"
