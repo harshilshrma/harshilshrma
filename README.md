@@ -2,7 +2,7 @@
 
 This is where I dump my tech shenanigans, gearing up to create innovative tech products, services, and ventures with the intent to create solutions that could benefit others 🌍✨🛠️
 
-- 🔭 &nbsp;I’m currently working on something cool 🥶
+- 🔭 &nbsp;I’m currently working on something cool
 - 🌱 &nbsp;I’m currently learning <strong>Web Development</strong> and <strong>DSA</strong>
 - ⚡ &nbsp;<b>Fun fact:</b> I :heart: cars and video-games.
 
