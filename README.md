@@ -27,7 +27,7 @@ This is where I dump my tech shenanigans, gearing up to create innovative tech p
 <br>
 
 # 🤝&nbsp;Connect with me
-<h4>If you are the mail type, send me a mail <a href="mailto:harshilsharma.dev@gmail.com">@harshilsharma.dev@gmail.com</a></h4>
+<h3>If you are the mail type, send me a mail <a href="mailto:harshilsharma.dev@gmail.com">@harshilsharma.dev@gmail.com</a></h3>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/harshilshrma/)
 &nbsp;
@@ -36,7 +36,7 @@ This is where I dump my tech shenanigans, gearing up to create innovative tech p
 <br>
 
 # 📈&nbsp;Stats That May or May Not Impress You (Worth a Peek!)
-<h4>For a more detailed view, check out my stats at <a href="https://wakatime.com/@harshilshrma">WakaTime➚</a></h4>
+<h3>For a more detailed view, check out my stats at <a href="https://wakatime.com/@harshilshrma">WakaTime➚</a></h3>
 
 <br>
 
