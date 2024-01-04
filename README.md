@@ -45,7 +45,9 @@ Sunday                   24 commits          ███░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:📊 **Yesterday, I Spent My Time On**-->
+<!--START_SECTION:waka-->
+📊 **Yesterday, I Spent My Time On**
+
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
@@ -68,7 +70,7 @@ MoveMate - Using Bootstra0 secs              ░░░░░░░░░░░�
 💻 Operating System: 
 Windows                  2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
-<!--END_SECTION:📊 **Yesterday, I Spent My Time On**>
+<!--END_SECTION:waka-->
 
 Last Updated on 04/01/2024 12:24:06 UTC
 
