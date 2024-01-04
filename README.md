@@ -17,9 +17,9 @@ This is where I dump my tech shenanigans, gearing up to create innovative tech p
 # 🛠&nbsp;Skills
 <p align="center">
   <a href="https://skillicons.dev">
-   <h4>Languages</h4>
+   <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=java,python,c,javascript,kotlin" />
-    <h4>Technologies/Frameworks:</h4>
+    <h3>Technologies/Frameworks:</h3>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql,git,github,vscode,idea,androidstudio" />
   </a>
 </p>
@@ -27,7 +27,7 @@ This is where I dump my tech shenanigans, gearing up to create innovative tech p
 <br>
 
 # 🤝&nbsp;Connect with me
-<h3>If you are the mail type, send me a mail <a href="mailto:harshilsharma.dev@gmail.com">@harshilsharma.dev@gmail.com</a></h3>
+<h4>If you are the mail type, send me a mail <a href="mailto:harshilsharma.dev@gmail.com">@harshilsharma.dev@gmail.com</a></h4>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/harshilshrma/)
 &nbsp;
@@ -36,7 +36,7 @@ This is where I dump my tech shenanigans, gearing up to create innovative tech p
 <br>
 
 # 📈&nbsp;Stats That May or May Not Impress You (Worth a Peek!)
-<h3>For a more detailed view, check out my stats at <a href="https://wakatime.com/@harshilshrma">WakaTime➚</a></h3>
+<h4>For a more detailed view, check out my stats at <a href="https://wakatime.com/@harshilshrma">WakaTime➚</a></h4>
 
 <br>
 
