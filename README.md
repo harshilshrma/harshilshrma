@@ -36,7 +36,9 @@ This is where I dump my tech shenanigans, gearing up to create innovative tech p
 <br>
 
 ## 📈&nbsp;Stats That May or May Not Impress You (Worth a Peek!)
-You can also check out my stats at 
+<h4>For a more detailed view, check out my stats at <a href="https://wakatime.com/@harshilshrma">WakaTime➚</a></h4>
+
+<br>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
