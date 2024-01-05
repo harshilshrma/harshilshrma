@@ -2,32 +2,54 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ec1515&height=100&section=header&text=Hello!&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">
+<p align="center">
+This is where I dump my tech shenanigans, gearing up to create innovative tech products, services, and ventures with the intent to create solutions that could benefit others 🌍✨🛠️
+</p>
+
+<h2 align="center">
   Let's Connect and have a Chat!💬
-</h1>
+</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/harshilshrma/">
   <img src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="linkedin" height="50">
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://twitter.com/harshilshrma">
   <img src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png" alt="X" height="50">
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.instagram.com/harshilshrma/">
   <img src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="instagram" height="50">
 </a>
-&nbsp;&nbsp;
 </p>
 
-### Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+---
 
-This is where I dump my tech shenanigans, gearing up to create innovative tech products, services, and ventures with the intent to create solutions that could benefit others 🌍✨🛠️
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-- 🔭 &nbsp;I’m currently working on something cool
-- 🌱 &nbsp;I’m currently learning <strong>Web Development</strong> and <strong>DSA</strong>
-- ⚡ &nbsp;<b>Fun fact:</b> I :heart: cars and video-games.
+```yaml
+name: Harshil Sharma
+located_in: Jaipur, Rajasthan, India
+education:
+  [
+    "Pursuing B.Tech in Computer Science and Engineering",
+    "3rd Year, Current CGPA: 8.0"
+  ]
+
+fields_of_interests:
+  [
+    "Web Development",
+    "AI"
+    "Data Science",
+    "Machine Learning",
+  ]
+
+currently_learning: ["JavaScript and DSA"]
+2024 Goals: ["Create epic Projects and learn at least 5-8 new Technologies."]
+hobbies: ["Gaming", "Anime"]
+```
+---  
 
 <br>
 
