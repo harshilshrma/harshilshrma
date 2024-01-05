@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ec1515&animation=fadeIn&height=100&section=header&text=Hello!"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ec1515&height=100&section=header&text=Hello!&fontColor=ffffff"/>
 </p>
 
 <h1 align="center">
@@ -12,16 +12,13 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://twitter.com/harshilshrma">
-  <img src="https://cdn.simpleicons.org/x/_/ffffff" alt="X" width="45" height="45">
+  <img src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png" alt="X" height="50">
 </a>
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/harshilshrma/">
-  <img src="https://cdn.simpleicons.org/instagram/_/_" alt="instagram" width="45" height="45">
+  <img src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="instagram" height="50">
 </a>
 &nbsp;&nbsp;
-<a href="https://leetcode.com/harshilsharma2020/">
-  <img src="https://cdn.simpleicons.org/leetcode/_/_" alt="LeetCode" width="45" height="45">
-</a>
 </p>
 
 ### Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
