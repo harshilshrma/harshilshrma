@@ -27,11 +27,24 @@ This is where I dump my tech shenanigans, gearing up to create innovative tech p
 <br>
 
 # 🤝&nbsp;Connect with me
-<h4>If you are the mail type, send me a mail <a href="mailto:harshilsharma.dev@gmail.com">@harshilsharma.dev@gmail.com</a></h4>
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/harshilshrma/)
-&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/harshilshrma)
+<a href="https://www.linkedin.com/in/harshilshrma/">
+  <img src="https://cdn.simpleicons.org/linkedin/_/_" alt="linkedin" width="45" height="45">
+</a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/harshilshrma">
+  <img src="https://cdn.simpleicons.org/x/_/ffffff" alt="X" width="45" height="45">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/harshilshrma/">
+  <img src="https://cdn.simpleicons.org/instagram/_/_" alt="instagram" width="45" height="45">
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/harshilsharma2020/">
+  <img src="https://cdn.simpleicons.org/leetcode/_/_" alt="LeetCode" width="45" height="45">
+</a>
+
+<h4>Or, if you are the mail type, send me a mail <a href="mailto:harshilsharma.dev@gmail.com">@harshilsharma.dev@gmail.com</a></h4>
 
 <br>
 
