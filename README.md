@@ -25,12 +25,14 @@ This is where I dump my tech shenanigans, gearing up to create innovative tech p
 </p>
 
 <p align="center">
-<a>Or, if you are the mail type, send me a mail <a href="mailto:harshilsharma.dev@gmail.com">@harshilsharma.dev@gmail.com</a>
+<a>Or, if you are the mail type, send me a mail at <a href="mailto:harshilsharma.dev@gmail.com">harshilsharma.dev@gmail.com</a>
 </p>
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h1> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h1>
+
+<h2>Encrypted Showtime:</h2>
 
 ```yaml
 name: Harshil Sharma
@@ -53,15 +55,14 @@ currently_learning: ["JavaScript and DSA"]
 2024 Goals: ["Create epic Projects and learn at least 5-8 new Technologies."]
 hobbies: ["Gaming", "Anime"]
 ```
----  
 
-<br>
 
-# My Life.exe in a nutshell:
+
+<h2>Textual Showtime:</h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=65&duration=1800&pause=1200&color=F7F7F7&background=0D1117&center=true&vCenter=true&random=false&width=2420&height=300&lines=Hey+there%2C+I'm+Harshil;welcome+to+my+life.exe;Get+ready!+The+next+10+points+offer+a+peek+into+my+world;1%2F10%3A+I'm+Currently+pursuing+B.Tech+in+Computer+Science;2%2F10%3A+Coding+by+day%2C+gaming+by+code's+moonlight;3%2F10%3A+Mastering+skills+for+a+Koenigsegg-fueled+tomorrow;4%2F10%3A+I+excel+in+organized+everything%E2%80%94code%2C+spaces%2C+and+life;5%2F10%3A+Coffee%E2%80%94the+real+code+compiler+behind+my+smarts;6%2F10%3A+Learning+AI+to+make+tech+smarter+and+less+Terminator-y;7%2F10%3A+Obsessed+with+LeetCode%E2%80%94tackling+programming+puzzles+daily;8%2F10%3A+Java+holds+the+throne+in+my+coding+kingdom%E2%80%94top+dog;9%2F10%3A+Striving+to+craft+tech+solutions+that+better+the+world;10%2F10%3A+Working+to+leave+a+positive+impact%2C+doing+good+deeds+before+I+go!;thanks+for+diving+into+my+coding+tale%E2%80%94appreciate+it!;(%E3%80%83%EF%BF%A3%EF%B8%B6%EF%BF%A3)%E4%BA%BA(%EF%BF%A3%EF%B8%B6%EF%BF%A3%E3%80%83))](#)
 
-
+---
 
 # Skills
 <p align="center">
@@ -75,13 +76,9 @@ hobbies: ["Gaming", "Anime"]
 
 <br>
 
-# Connect with me
+---
 
 
-
-<h4>Or, if you are the mail type, send me a mail <a href="mailto:harshilsharma.dev@gmail.com">@harshilsharma.dev@gmail.com</a></h4>
-
-<br>
 
 # Stats That May or May Not Impress You (Worth a Peek!)
 <h4>For a more detailed view, check out my stats at <a href="https://wakatime.com/@harshilshrma">WakaTime➚</a></h4>
