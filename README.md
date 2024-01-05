@@ -6,9 +6,9 @@
 This is where I dump my tech shenanigans, gearing up to create innovative tech products, services, and ventures with the intent to create solutions that could benefit others 🌍✨🛠️
 </p>
 
-<h2 align="center">
+<h1 align="center">
   Let's Connect and have a Chat!💬
-</h2>
+</h1>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/harshilshrma/">
@@ -22,6 +22,10 @@ This is where I dump my tech shenanigans, gearing up to create innovative tech p
 <a href="https://www.instagram.com/harshilshrma/">
   <img src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="instagram" height="50">
 </a>
+</p>
+
+<p align="center">
+<a>Or, if you are the mail type, send me a mail <a href="mailto:harshilsharma.dev@gmail.com">@harshilsharma.dev@gmail.com</a>
 </p>
 
 ---
