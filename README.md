@@ -129,11 +129,14 @@ MoveMate - Using Bootstra0 secs              ░░░░░░░░░░░�
  Last Updated on 04/01/2024 22:05:40 UTC
 <!--END_SECTION:waka-->
 
+---
+
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=65&duration=2000&pause=1200&color=F7F7F7&background=0D1117&center=true&vCenter=true&random=false&width=2580&height=100&lines=thanks+for+making+it+to+the+end!+Now+go+grab+a+coffee%2C+you've+earned+it!+%F0%9F%98%84%E2%98%95%EF%B8%8F)](#)
 
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec1515,100:000000&animation=fadeIn&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec1515,150:000000&animation=fadeIn&height=100&section=footer"/>
 </p>
