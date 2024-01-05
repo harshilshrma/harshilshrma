@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6cfdf6,100:f9ed9d&height=300&section=header&text=capsule%20render&fontSize=90" />
+</p>
+
+
+
+<p align="center">
+  <a href="#">
+    <img height="150" src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif"/>
+  </a>
+</p>
+
 ### Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 This is where I dump my tech shenanigans, gearing up to create innovative tech products, services, and ventures with the intent to create solutions that could benefit others 🌍✨🛠️
