@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ec1515&animation=fadeIn&height=200&section=header&text=Hey%20Everyone!&fontColor=000001&fontAlign=70&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ec1515&animation=fadeIn&height=100&section=header&text=Hello!"/>
 </p>
 
 <h1 align="center">
@@ -7,9 +7,21 @@
 </h1>
 
 <p align="center">
-  <a href="#">
-    <img height="150" src="https://media.giphy.com/media/6U47YlEnJQNeb05Csh/giphy.gif"/>
-  </a>
+<a href="https://www.linkedin.com/in/harshilshrma/">
+  <img src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="linkedin" height="50">
+</a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/harshilshrma">
+  <img src="https://cdn.simpleicons.org/x/_/ffffff" alt="X" width="45" height="45">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/harshilshrma/">
+  <img src="https://cdn.simpleicons.org/instagram/_/_" alt="instagram" width="45" height="45">
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/harshilsharma2020/">
+  <img src="https://cdn.simpleicons.org/leetcode/_/_" alt="LeetCode" width="45" height="45">
+</a>
 </p>
 
 ### Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
@@ -42,21 +54,7 @@ This is where I dump my tech shenanigans, gearing up to create innovative tech p
 
 # Connect with me
 
-<a href="https://www.linkedin.com/in/harshilshrma/">
-  <img src="https://cdn.simpleicons.org/linkedin/_/_" alt="linkedin" width="45" height="45">
-</a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/harshilshrma">
-  <img src="https://cdn.simpleicons.org/x/_/ffffff" alt="X" width="45" height="45">
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/harshilshrma/">
-  <img src="https://cdn.simpleicons.org/instagram/_/_" alt="instagram" width="45" height="45">
-</a>
-&nbsp;&nbsp;
-<a href="https://leetcode.com/harshilsharma2020/">
-  <img src="https://cdn.simpleicons.org/leetcode/_/_" alt="LeetCode" width="45" height="45">
-</a>
+
 
 <h4>Or, if you are the mail type, send me a mail <a href="mailto:harshilsharma.dev@gmail.com">@harshilsharma.dev@gmail.com</a></h4>
 
@@ -116,3 +114,6 @@ MoveMate - Using Bootstra0 secs              ░░░░░░░░░░░�
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=65&duration=2000&pause=1200&color=F7F7F7&background=0D1117&center=true&vCenter=true&random=false&width=2580&height=100&lines=thanks+for+making+it+to+the+end!+Now+go+grab+a+coffee%2C+you've+earned+it!+%F0%9F%98%84%E2%98%95%EF%B8%8F)](#)
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec1515,100:000000&animation=fadeIn&height=100&section=footer"/>
+</p>
