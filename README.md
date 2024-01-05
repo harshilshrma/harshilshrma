@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="#">
-    <img height="150" src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif"/>
+    <img height="150" src="https://media.giphy.com/media/6U47YlEnJQNeb05Csh/giphy.gif"/>
   </a>
 </p>
 
