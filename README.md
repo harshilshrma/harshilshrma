@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ec1515&height=100&section=header&animation=fadeIn&text=Hello!&fontColor=ffffff"/>
 </p>
 
-<p align="center">
+<h4 align="center">
 This is where I dump my tech shenanigans, gearing up to create innovative tech products, services, and ventures with the intent to create solutions that could benefit others 🌍✨🛠️
-</p>
+</h4>
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
