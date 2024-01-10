@@ -6,6 +6,8 @@
 This is where I dump my tech shenanigans, gearing up to create innovative tech products, services, and ventures with the intent to create solutions that could benefit others 🌍✨🛠️
 </h3>
 
+<br>
+
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
