@@ -133,6 +133,8 @@ Netflix Clone            0 secs              ░░░░░░░░░░░�
  Last Updated on 21/01/2024 18:35:08 UTC
 <!--END_SECTION:waka-->
 
+![](https://komarev.com/ghpvc/?username=harshilshrma&color=941315&label=Profile+Visits)
+
 ---
 
 <br>
