@@ -53,7 +53,7 @@ fields_of_interests:
     "Machine Learning",
   ]
 
-currently_learning: ["JavaScript and DSA"]
+currently_learning: ["Node.js and DSA"]
 2024 Goals: ["Create epic Projects and learn at least 5-8 new Technologies."]
 hobbies: ["Gaming", "Anime"]
 ```
