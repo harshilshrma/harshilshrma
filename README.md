@@ -79,7 +79,10 @@ hobbies: ["Gaming", "Anime"]
 ---
 
 # Stats That May or May Not Impress You (Worth a Peek!)
-<h4>For a more detailed view, check out my stats at <a href="https://wakatime.com/@harshilshrma">WakaTime➚</a></h4>
+<h3>For a more detailed view, check out my stats at <a href="https://wakatime.com/@harshilshrma">WakaTime➚</a></h3>
+
+Total time coded this year: &nbsp; [![wakatime](https://wakatime.com/badge/user/018cc9b3-bdfa-4ef4-a679-8bc20c997551.svg)](https://wakatime.com/@018cc9b3-bdfa-4ef4-a679-8bc20c997551)
+
 
 <br>
 
@@ -134,6 +137,7 @@ Rock, Paper & Scissors   9 mins              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=harshilshrma&color=941315&label=Profile+Visits)
+
 
 ---
 
