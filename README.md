@@ -70,7 +70,7 @@ hobbies: ["Gaming", "Anime"]
    <h4>Languages</h4>
     <img src="https://skillicons.dev/icons?i=java,python,c,javascript,kotlin" />
     <h4>Technologies/Frameworks:</h4>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,expressjs,mysql,git,github,vscode,idea,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,expressjs,react,mysql,git,github,vscode,idea,androidstudio" />
   </a>
 </p>
 
