@@ -114,17 +114,17 @@ Sunday                   113 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Intellijidea             0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LeetCode                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/04/2024 18:35:06 UTC
+ Last Updated on 26/04/2024 18:35:11 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=harshilshrma&color=941315&label=Profile+Visits)
