@@ -6,9 +6,9 @@
 This is where I dump my tech shenanigans, gearing up to create innovative tech products, services, and ventures with the intent to create solutions that could benefit others 🌍✨🛠️
 </h3>
 
-<p align="center">
+<h3 align="center">
 <a target="blank">Have a look at my <a href="https://harshilshrma.vercel.app">Portfolio!</a>
-</p>
+</h3>
 
 
 
