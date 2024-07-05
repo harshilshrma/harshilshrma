@@ -6,6 +6,12 @@
 This is where I dump my tech shenanigans, gearing up to create innovative tech products, services, and ventures with the intent to create solutions that could benefit others 🌍✨🛠️
 </h3>
 
+<p align="center">
+<a target="blank">Have a look at my <a href="https://harshilshrma.vercel.app">Portfolio!</a>
+</p>
+
+
+
 <br>
 
 <h1 align="center">
@@ -42,7 +48,7 @@ located_in: Jaipur, Rajasthan, India
 education:
   [
     "Pursuing B.Tech in Computer Science and Engineering from BIT Mesra",
-    "3rd Year, Current CGPA: 8.0"
+    "Final Year, Current CGPA: 8.0"
   ]
 
 fields_of_interests:
@@ -53,9 +59,9 @@ fields_of_interests:
     "Machine Learning",
   ]
 
-currently_learning: ["React and DSA"]
+currently_learning: ["NextJs and Typescript"]
 2024 Goals: ["Create epic Projects and learn at least 5-8 new Technologies."]
-hobbies: ["Gaming", "Anime"]
+hobbies: ["Gaming", "Anime", "Drumming"]
 ```
 
 <h2>Textual Showtime:</h2>
@@ -68,9 +74,9 @@ hobbies: ["Gaming", "Anime"]
 <p align="center">
   <a href="https://skillicons.dev">
    <h4>Languages</h4>
-    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,kotlin" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c,kotlin" />
     <h4>Technologies/Frameworks:</h4>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,expressjs,react,mysql,git,github,vscode,idea,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,nodejs,expressjs,mysql,postgresql,git,github,vscode,idea,androidstudio" />
   </a>
 </p>
 
