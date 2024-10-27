@@ -59,7 +59,7 @@ fields_of_interests:
     "Machine Learning",
   ]
 
-currently_learning: ["NextJs and Typescript"]
+currently_learning: ["AI & ML"]
 2024 Goals: ["Create epic Projects and learn at least 5-8 new Technologies."]
 hobbies: ["Gaming", "Anime", "Drumming"]
 ```
