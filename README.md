@@ -93,8 +93,44 @@ Total time coded since Jan 2, 2024: &nbsp; [![wakatime](https://wakatime.com/bad
 <br>
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 02/05/2025 18:45:59 UTC
+```text
+🌞 Morning                13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+🌆 Daytime                481 commits         ██████████░░░░░░░░░░░░░░░   39.72 % 
+🌃 Evening                578 commits         ████████████░░░░░░░░░░░░░   47.73 % 
+🌙 Night                  139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Tuesday                  198 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Wednesday                283 commits         ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+Thursday                 165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Friday                   176 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Saturday                 103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Sunday                   172 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 03/05/2025 18:43:48 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=harshilshrma&color=941315&label=Profile+Visits)
