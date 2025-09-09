@@ -7,7 +7,7 @@ This is where I dump my tech shenanigans, gearing up to create innovative tech p
 </h3>
 
 <h3 align="center">
-<a target="blank">Have a look at my <a href="https://harshilshrma.vercel.app">Portfolio!</a>
+<a target="blank">Have a look at my <a href="https://harshilshrma.com">Portfolio!</a>
 </h3>
 
 
@@ -44,21 +44,22 @@ name: Harshil Sharma
 located_in: Jaipur, Rajasthan, India
 education:
   [
-    "Pursuing B.Tech in Computer Science and Engineering from BIT Mesra",
-    "Final Year, Current CGPA: 8.0"
+    "B.Tech in Computer Science and Engineering from BIT Mesra",
+    "CGPA: 8.2"
   ]
 
 fields_of_interests:
   [
-    "Web Development",
+    "Full Stack Development",
+    "Data Structures & Algorithm"
     "AI"
     "Data Science",
     "Machine Learning",
   ]
 
-currently_learning: ["AI & ML"]
-2024 Goals: ["Create epic Projects and learn at least 5-8 new Technologies."]
-hobbies: ["Gaming", "Anime", "Drumming"]
+currently_learning: ["DSA + Full Stack Development"]
+2025 Goals: ["Excel in DSA + Improve Full Stack Development"]
+hobbies: ["F1", "Anime", "Drumming"]
 ```
 
 <h2>Textual Showtime:</h2>
