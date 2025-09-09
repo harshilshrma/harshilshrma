@@ -27,9 +27,6 @@ This is where I dump my tech shenanigans, gearing up to create innovative tech p
   <img src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png" alt="X" height="50">
 </a>
 &nbsp;
-<a href="https://www.instagram.com/harshilshrma/">
-  <img src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="instagram" height="50">
-</a>
 </p>
 
 <p align="center">
