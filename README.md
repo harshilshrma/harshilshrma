@@ -44,7 +44,7 @@ name: Harshil Sharma
 located_in: Jaipur, Rajasthan, India
 education:
   [
-    "B.Tech in Computer Science and Engineering from BIT Mesra",
+    "B.Tech in Computer Science and Engineering from BIT Mesra - 2025",
     "CGPA: 8.2"
   ]
 
