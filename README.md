@@ -118,14 +118,15 @@ Sunday                   195 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 min               ██████████████████████░░░   86.53 % 
+CSS                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   2 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/09/2025 18:47:31 UTC
+ Last Updated on 24/09/2025 18:44:46 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=harshilshrma&color=941315&label=Profile+Visits)
