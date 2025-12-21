@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ec1515&height=140&section=header&animation=fadeIn&text=Hello!&fontColor=ffffff&fontAlignY=34"/>
 </p>
 
+![](https://komarev.com/ghpvc/?username=harshilshrma&color=941315&label=Profile+Visits)
+
 <h3 align="center">
 This is where I dump my tech shenanigans, gearing up to create innovative tech products, services, and ventures with the intent to create solutions that could benefit others 🌍✨🛠️
 </h3>
@@ -131,7 +133,7 @@ Cursor                   6 hrs 48 mins       ███████████�
  Last Updated on 20/12/2025 18:46:34 UTC
 <!--END_SECTION:waka-->
 
-![](https://komarev.com/ghpvc/?username=harshilshrma&color=941315&label=Profile+Visits)
+
 
 
 ---
