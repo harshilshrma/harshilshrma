@@ -120,14 +120,15 @@ Sunday                   320 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               46 mins             ████████████████████████░   96.33 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   48 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/03/2026 19:25:04 UTC
+ Last Updated on 26/03/2026 19:37:01 UTC
 <!--END_SECTION:waka-->
 
 
