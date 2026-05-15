@@ -93,41 +93,8 @@ Total time coded since Jan 2, 2024: &nbsp; [![wakatime](https://wakatime.com/bad
 <br>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-🌆 Daytime                735 commits         ████████░░░░░░░░░░░░░░░░░   31.91 % 
-🌃 Evening                1023 commits        ███████████░░░░░░░░░░░░░░   44.42 % 
-🌙 Night                  492 commits         █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Tuesday                  314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Wednesday                436 commits         █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-Thursday                 381 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Friday                   334 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Saturday                 271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Sunday                   320 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 14/05/2026 20:13:01 UTC
+ Last Updated on 15/05/2026 20:00:08 UTC
 <!--END_SECTION:waka-->
 
 
