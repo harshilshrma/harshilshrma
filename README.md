@@ -93,8 +93,45 @@ Total time coded since Jan 2, 2024: &nbsp; [![wakatime](https://wakatime.com/bad
 <br>
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 23/05/2026 19:44:16 UTC
+```text
+🌞 Morning                53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+🌆 Daytime                735 commits         ████████░░░░░░░░░░░░░░░░░   31.90 % 
+🌃 Evening                1023 commits        ███████████░░░░░░░░░░░░░░   44.40 % 
+🌙 Night                  493 commits         █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Tuesday                  315 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Wednesday                436 commits         █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Thursday                 381 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Friday                   334 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Saturday                 271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Sunday                   320 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               54 mins             ████████████████████████░   95.02 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+
+🔥 Editors: 
+Cursor                   55 mins             ████████████████████████░   96.68 % 
+VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+```
+
+
+ Last Updated on 24/05/2026 19:46:42 UTC
 <!--END_SECTION:waka-->
 
 
