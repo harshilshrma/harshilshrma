@@ -93,26 +93,24 @@ Total time coded since Jan 2, 2024: &nbsp; [![wakatime](https://wakatime.com/bad
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-🌆 Daytime                736 commits         ████████░░░░░░░░░░░░░░░░░   31.77 % 
-🌃 Evening                1029 commits        ███████████░░░░░░░░░░░░░░   44.41 % 
-🌙 Night                  493 commits         █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+🌞 Morning                59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+🌆 Daytime                736 commits         ████████░░░░░░░░░░░░░░░░░   31.70 % 
+🌃 Evening                1033 commits        ███████████░░░░░░░░░░░░░░   44.49 % 
+🌙 Night                  494 commits         █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Tuesday                  317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Wednesday                440 commits         █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Thursday                 382 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Friday                   336 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Saturday                 271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Sunday                   322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Monday                   249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Tuesday                  320 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Wednesday                441 commits         █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+Thursday                 383 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Friday                   336 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Saturday                 271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Sunday                   322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
 ```
 
 
@@ -122,14 +120,14 @@ Sunday                   322 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 19 mins        ████████████████░░░░░░░░░   63.95 % 
-Java                     26 mins             █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-JSON                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Diff                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+JavaScript               2 hrs 3 mins        ██████████████████░░░░░░░   73.37 % 
+Java                     26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Diff                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 4 mins        █████████████████████████   100.00 % 
+Cursor                   2 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -139,7 +137,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/07/2026 20:03:41 UTC
+ Last Updated on 28/07/2026 20:00:26 UTC
 <!--END_SECTION:waka-->
 
 
