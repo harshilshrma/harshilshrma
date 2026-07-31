@@ -122,14 +122,13 @@ Sunday                   322 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               4 hrs 10 mins       ██████████████████████░░░   86.60 % 
-Java                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Diff                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+JavaScript               2 hrs 55 mins       ████████████████████████░   94.12 % 
+Java                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 48 mins       █████████████████████████   100.00 % 
+Cursor                   3 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -139,7 +138,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 30/07/2026 20:01:00 UTC
+ Last Updated on 31/07/2026 20:01:06 UTC
 <!--END_SECTION:waka-->
 
 
