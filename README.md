@@ -53,14 +53,13 @@ education:
 fields_of_interests:
   [
     "Full Stack Development",
-    "Data Structures & Algorithm"
+    "Data Structures & Algorithms"
     "AI"
-    "Data Science",
-    "Machine Learning",
+    "System Design and Architecture"
   ]
 
 currently_learning: ["DSA + Full Stack Development"]
-2025 Goals: ["Excel in DSA + Improve Full Stack Development"]
+2026 Goals: ["Excel in DSA + Improve Full Stack Development"]
 hobbies: ["F1", "Anime", "Drumming"]
 ```
 
